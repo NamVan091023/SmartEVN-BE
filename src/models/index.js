@@ -1,0 +1,9 @@
+module.exports.Token = require('./token.model');
+module.exports.User = require('./user.model');
+module.exports.Pollution = require('./pollution.model');
+module.exports.Notification = require('./notification.model');
+module.exports.FCMToken = require('./fcm_token.model');
+module.exports.NewsWeb = require('./news.model');
+module.exports.AreaForest = require('./area_forest.model');
+module.exports.Alert = require('./alert.model');
+module.exports.NotificationAlert = require('./notification_alert.model');
